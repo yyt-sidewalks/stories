@@ -1,0 +1,27 @@
+{
+  "name": "yyt-sidewalk-stores",
+  "version": "1.0.0",
+  "description": "site for sidewalk stories in st john's nl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyt-sidewalks/stories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyt-sidewalks/stories/issues"
+  },
+  "homepage": "https://github.com/yyt-sidewalks/stories#readme",
+  "dependencies": {
+    "bulma-start": "0.0.3",
+    "gulp": "^4.0.2",
+    "gulp-bless": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
